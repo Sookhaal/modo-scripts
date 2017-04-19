@@ -1,0 +1,4 @@
+#LXMacro#
+select.typeFrom edge
+view3d.showVertices false
+view3d.wireframeOverlay colored

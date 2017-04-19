@@ -1,0 +1,4 @@
+#LXMacro#
+symmetry.state true
+symmetry.axis 2
+@nUpdateSymmetryOffset.py

@@ -1,0 +1,3 @@
+#LXMacro#
+select.typeFrom polygon
+view3d.showVertices false
